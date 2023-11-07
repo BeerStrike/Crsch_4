@@ -39,6 +39,9 @@
     <ClCompile Include="OpenGLENG\ShaderFuncs.cpp">
       <Filter>Исходные файлы\OpenGLENG</Filter>
     </ClCompile>
+    <ClCompile Include="MainGameClass.cpp">
+      <Filter>Исходные файлы</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="OpenGLENG\stb_image.h">
@@ -61,6 +64,9 @@
     </ClInclude>
     <ClInclude Include="OpenGLENG\ShaderFuncs.h">
       <Filter>Файлы заголовков\OpenGLENG</Filter>
+    </ClInclude>
+    <ClInclude Include="MainGameClass.h">
+      <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

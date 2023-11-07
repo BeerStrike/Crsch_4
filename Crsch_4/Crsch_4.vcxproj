@@ -131,6 +131,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="MainGameClass.cpp" />
     <ClCompile Include="OpenGLENG\Object.cpp" />
     <ClCompile Include="OpenGLENG\OBJloader.cpp" />
     <ClCompile Include="OpenGLENG\Primitives.cpp" />
@@ -138,6 +139,7 @@
     <ClCompile Include="OpenGLENG\ShaderFuncs.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="MainGameClass.h" />
     <ClInclude Include="OpenGLENG\LightStructs.h" />
     <ClInclude Include="OpenGLENG\Object.h" />
     <ClInclude Include="OpenGLENG\OBJloader.h" />
