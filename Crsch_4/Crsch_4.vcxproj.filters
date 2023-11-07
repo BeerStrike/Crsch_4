@@ -27,9 +27,6 @@
     <ClCompile Include="OpenGLENG\Object.cpp">
       <Filter>Исходные файлы\OpenGLENG</Filter>
     </ClCompile>
-    <ClCompile Include="OpenGLENG\OBJloader.cpp">
-      <Filter>Исходные файлы\OpenGLENG</Filter>
-    </ClCompile>
     <ClCompile Include="OpenGLENG\Scene.cpp">
       <Filter>Исходные файлы\OpenGLENG</Filter>
     </ClCompile>
@@ -44,9 +41,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="OpenGLENG\stb_image.h">
-      <Filter>Файлы заголовков\OpenGLENG</Filter>
-    </ClInclude>
     <ClInclude Include="OpenGLENG\LightStructs.h">
       <Filter>Файлы заголовков\OpenGLENG</Filter>
     </ClInclude>

@@ -26,7 +26,9 @@ void MainGameClass::keyProcessor(GLFWwindow* window, int key, int scancode, int 
 }
 
 
-void MainGameClass::startGame(){
+void MainGameClass::startGame(int WW,int WH){
+    WinWidth = WW;
+    WinHeight = WH;
     glfwInit();
     GLFWwindow* window = glfwCreateWindow(640, 480, "Crsch_4",
         NULL, NULL);
@@ -38,6 +40,7 @@ void MainGameClass::startGame(){
     while (!glfwWindowShouldClose(window)) {
         glfwPollEvents();
         glViewport(0, 0, WinWidth, WinHeight);
+        s->draw(WinWidth, WinHeight);
         glfwSwapBuffers(window);
     }
     delete s;

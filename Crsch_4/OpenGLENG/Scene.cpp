@@ -9,7 +9,7 @@ namespace OpenGLENG {
         glUseProgram(shader_programme);
         for (int i = 0; i < objects.size();i++) {
             glm::mat4 prsp = glm::perspective(glm::radians(fov), (float)WinWidth / WinHeight,bfc, bhc);
-            glm::vec3 cameraDir = { 1.0f*cos(0)*cos(cameraPitch),1.0f * sin(cameraPitch),1.0 * sin(0) * cos(cameraPitch) };
+            glm::vec3 cameraDir = { 1.0f*cos(cameraYaw)*cos(cameraPitch),1.0f * sin(cameraPitch),1.0 * sin(cameraYaw) * cos(cameraPitch) };
             glm::mat4 cam = glm::lookAt(cameraPos, cameraPos+cameraDir, glm::vec3(0.0f, 1.0f, 0.0f));
             objects[i]->draw(prsp, cam, objectTrf[i],lights,cameraPos, shader_programme);
         }
@@ -78,9 +78,7 @@ namespace OpenGLENG {
         cameraPos += mvv;
     }
     void Scene::rotateCam(GLfloat yaw, GLfloat pitch) {
-        objectTrf[0] = glm::rotate(objectTrf[0], glm::radians(cameraYaw), glm::vec3(0.0, 1.0, 0.0));
-        //objectTrf[0] = glm::rotate(objectTrf[0], glm::vec3(0, yaw, 0));
         cameraYaw += yaw;
-        //cameraPitch += pitch;
+        cameraPitch += pitch;
     }
 }

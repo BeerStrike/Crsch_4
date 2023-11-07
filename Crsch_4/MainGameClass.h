@@ -11,7 +11,7 @@ private:
 	static int WinHeight;
 public:
 	static void keyProcessor(GLFWwindow* window, int key, int scancode, int action, int mods);
-	static void startGame();
+	static void startGame(int WW, int WH);
 	static void glfw_window_size_callback(GLFWwindow* window, int width, int height);
 };
 

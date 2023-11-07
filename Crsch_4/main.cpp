@@ -1,7 +1,7 @@
 #include "MainGameClass.h"
 
 int main() {
-    MainGameClass::startGame();
+    MainGameClass::startGame(640,480);
     return 0;
 }
 

@@ -1,9 +1,10 @@
 #define STB_IMAGE_IMPLEMENTATION
+#define TINYOBJLOADER_IMPLEMENTATION
 #include "Object.h"
-#include "OBJloader.h" 
 #include <fstream>
 #include "LightStructs.h"
 #include "stb_image.h"
+#include "tiny_obj_loader.h"
 namespace OpenGLENG {
 	Object::Object(std::vector<GLuint> indices, std::vector<glm::vec3> &points, std::vector<glm::vec2> &textures, std::vector<glm::vec3> &normals,Material mtr,std::string textureFile, std::string specularMapFile) {
 		pointn = indices.size();
@@ -59,7 +60,15 @@ namespace OpenGLENG {
 		std::vector<glm::vec3> points;
 		std::vector<glm::vec2> textures;
 		std::vector<glm::vec3> normals;
-		OBJLoad(filename.c_str(), points, textures, normals);
+		tinyobj::ObjReaderConfig config;
+		tinyobj::ObjReader reader;
+
+		if (!reader.ParseFromFile(filename, config))
+			return nullptr;
+		tinyobj::attrib_t attributes = reader.GetAttrib();
+		std::vector<tinyobj::shape_t> shapes = reader.GetShapes();
+		std::vector<tinyobj::material_t> materials = reader.GetMaterials();
+		shapes[0
 	///	return new Object(points, textures, normals);
 		return nullptr;
 	}
