@@ -1,17 +1,2 @@
 ﻿  main.cpp
-  MainGameClass.cpp
-  Object.cpp
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Object.cpp(10,24): warning C4267: =: преобразование из "size_t" в "GLuint"; возможна потеря данных
-  Primitives.cpp
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(13,20): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(14,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(18,26): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(69,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(70,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(86,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\OpenGLENG\Primitives.cpp(87,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-  Scene.cpp
-  ShaderFuncs.cpp
-  Создание кода...
-LINK : warning LNK4098: библиотека по умолчанию "MSVCRT" конфликтует с использованием других библиотек; используйте /NODEFAULTLIB:library
   Crsch_4.vcxproj -> C:\Users\dimko\Documents\VSProjects\Crsch_4\x64\Debug\Crsch_4.exe

@@ -18,6 +18,9 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
@@ -129,27 +132,6 @@
       <GenerateDebugInformation>true</GenerateDebugInformation>
     </Link>
   </ItemDefinitionGroup>
-  <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="MainGameClass.cpp" />
-    <ClCompile Include="OpenGLENG\Object.cpp" />
-    <ClCompile Include="OpenGLENG\Primitives.cpp" />
-    <ClCompile Include="OpenGLENG\Scene.cpp" />
-    <ClCompile Include="OpenGLENG\ShaderFuncs.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="MainGameClass.h" />
-    <ClInclude Include="OpenGLENG\LightStructs.h" />
-    <ClInclude Include="OpenGLENG\Object.h" />
-    <ClInclude Include="OpenGLENG\OBJloader.h" />
-    <ClInclude Include="OpenGLENG\Primitives.h" />
-    <ClInclude Include="OpenGLENG\Scene.h" />
-    <ClInclude Include="OpenGLENG\ShaderFuncs.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="OpenGLENG\FragmentShader.glsl" />
-    <None Include="OpenGLENG\VertexShader.glsl" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
