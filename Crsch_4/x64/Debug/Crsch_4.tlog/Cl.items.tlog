@@ -1,1 +1,15 @@
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\BaseObject.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\BaseObject.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Destroyer.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Destroyer.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\GameController.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\GameController.obj
 C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\main.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\main.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\PlayerPlane.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\PlayerPlane.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\PlayerPropeller.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\PlayerPropeller.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Scene.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Scene.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Sea.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Sea.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\ShaderFuncs.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\ShaderFuncs.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Ship.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Ship.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Shokaku.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Shokaku.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Skybox.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Skybox.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\SubObject.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\SubObject.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\Yamato.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\Yamato.obj
+C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\YGun.cpp;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\x64\Debug\YGun.obj

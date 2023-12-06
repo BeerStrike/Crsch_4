@@ -1,0 +1,42 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl JGM151_127mm50_Type_C_712
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Destroyer/jgm151_127mm50_type_c_a.jpg
+
+newmtl JGM151_127mm50_Type_C_skinned_680
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Destroyer/jgm151_127mm50_type_c_a.jpg
+
+newmtl JGT171_610mm4_Type_93_skinned_409
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Destroyer/jgt171_610mm4_type_93_a.jpg
+
+newmtl JSD031_Kagero_1944_802
+Ns 29.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.250000 0.250000 0.250000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Destroyer/jsd031_kagero_1944_a.jpg

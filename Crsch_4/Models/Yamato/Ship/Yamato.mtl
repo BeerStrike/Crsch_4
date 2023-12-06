@@ -1,0 +1,32 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl JGM164_460mm45_Type96_96.001
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/Ship/jgm164_460mm45_type96_a.jpg
+map_Ks Models/Yamato/Ship/jgm164_460mm45_type96_mg.jpg
+
+newmtl JSB018_Yamato_1944_deck_176.002
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/Ship/jsb018_yamato_1944_deck_a.jpg
+map_Ks Models/Yamato/Ship/jsb018_yamato_1944_deck_mg.jpg
+
+newmtl JSB018_Yamato_1944_hull_wire_400.001
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/Ship/jsb018_yamato_1944_hull_a.jpg
+map_Ks Models/Yamato/Ship/jsb018_yamato_1944_hull_mg.jpg

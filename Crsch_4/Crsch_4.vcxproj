@@ -19,7 +19,44 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="BaseObject.cpp" />
+    <ClCompile Include="Destroyer.cpp" />
+    <ClCompile Include="GameController.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PlayerPlane.cpp" />
+    <ClCompile Include="PlayerPropeller.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="Sea.cpp" />
+    <ClCompile Include="ShaderFuncs.cpp" />
+    <ClCompile Include="Ship.cpp" />
+    <ClCompile Include="Shokaku.cpp" />
+    <ClCompile Include="Skybox.cpp" />
+    <ClCompile Include="SubObject.cpp" />
+    <ClCompile Include="Yamato.cpp" />
+    <ClCompile Include="YGun.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BaseObject.h" />
+    <ClInclude Include="Destroyer.h" />
+    <ClInclude Include="GameController.h" />
+    <ClInclude Include="LightStructs.h" />
+    <ClInclude Include="ModelFilesDefines.h" />
+    <ClInclude Include="PlayerPlane.h" />
+    <ClInclude Include="PlayerPropeller.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneDefines.h" />
+    <ClInclude Include="Sea.h" />
+    <ClInclude Include="ShaderFuncs.h" />
+    <ClInclude Include="Ship.h" />
+    <ClInclude Include="Shokaku.h" />
+    <ClInclude Include="Skybox.h" />
+    <ClInclude Include="SubObject.h" />
+    <ClInclude Include="Yamato.h" />
+    <ClInclude Include="YGun.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="shaders\FragmentShader.glsl" />
+    <None Include="shaders\VertexShader.glsl" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -124,12 +161,15 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\stb_image;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\tiny_obj_loader;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\glm-master\glm;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\glfw-3.3.8.bin.WIN64\include;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\glew-2.1.0\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
       <EnableCOMDATFolding>true</EnableCOMDATFolding>
       <OptimizeReferences>true</OptimizeReferences>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\glfw-3.3.8.bin.WIN64\lib-vc2022;C:\Users\dimko\Documents\VSProjects\Crsch_4\Crsch_4\glew-2.1.0\lib\Release\x64;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>opengl32.lib; glfw3.lib; glfw3dll.lib; glew32.lib;$(CoreLibraryDependencies);%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -1,0 +1,492 @@
+# Blender 3.6.5 MTL File: 'None'
+# www.blender.org
+
+newmtl C001_Net_alpha_879
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.251000 0.251000 0.251000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/c001_net_alpha_a.jpg
+
+newmtl C004_Grid_1_alpha_skinned_169
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ks 0.251000 0.251000 0.251000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/c004_grid_1_alpha_a.png
+
+newmtl CM001_Propeller_994
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/cm001_propeller_a.jpg
+map_Ks cm001_propeller_mg.jpg
+
+newmtl CM005_Anchor_1_538
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/cm005_anchor_1_a.jpg
+map_Ks cm005_anchor_1_mg.jpg
+
+newmtl CM008_Life_Buoy_1_250
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/cm008_life_buoy_1_a.jpg
+map_Ks cm008_life_buoy_1_mg.jpg
+
+newmtl JC001_Catapult_Cradle_skinned_135
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jc001_catapult_cradle_a.jpg
+map_Ks default_mg.jpg
+
+newmtl JC001_Catapult_Shiki2_skinned_134
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jc001_catapult_shiki2_a.jpg
+map_Ks jc001_catapult_shiki2_mg.jpg
+
+newmtl JD013_Director_Type_98_Mod1_2
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd013_director_type_98_mod1_a.jpg
+map_Ks jd013_director_type_98_mod1_mg.jpg
+
+newmtl JD019_Machine_Gun_ControlTower_48
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd019_machine_gun_controltower_a.jpg
+map_Ks jd019_machine_gun_controltower_mg.jpg
+
+newmtl JD022_Director_Type_95_Mod1_14
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd022_director_type_95_mod1_a.jpg
+map_Ks jd022_director_type_95_mod1_mg.jpg
+
+newmtl JD056_MachineGun_Control_Position_49
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd056_machinegun_control_position_a.jpg
+map_Ks jd056_machinegun_control_position_mg.jpg
+
+newmtl JD095_Director_Type_95_Mod2_skinned_468
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd095_director_type_95_mod2_a.jpg
+map_Ks jd095_director_type_95_mod2_mg.jpg
+
+newmtl JD098_Director_Type_98_15m_skinned_169
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd098_director_type_98_15m_a.jpg
+map_Ks jd098_director_type_98_15m_mg.jpg
+
+newmtl JD099_Director_Type_98_10m_935
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jd099_director_type_98_10m_a.jpg
+map_Ks jd099_director_type_98_10m_mg.jpg
+
+newmtl JF017_Rangefinder_4_5m_13
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jf017_rangefinder_4_5m_a.jpg
+map_Ks jf017_rangefinder_4_5m_mg.jpg
+
+newmtl JF029_Rangefinder_1_5m_Yamato_951
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jf029_rangefinder_1_5m_yamato_a.jpg
+map_Ks jf029_rangefinder_1_5m_yamato_mg.jpg
+
+newmtl JGA004_25mm_Type96_Triple_1_421
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jga004_25mm_type96_triple_1_a.jpg
+map_Ks jga004_25mm_type96_triple_1_mg.jpg
+
+newmtl JGA010_25mm_Type96_443
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jga010_25mm_type96_a.jpg
+map_Ks jga010_25mm_type96_mg.jpg
+
+newmtl JGM164_460mm45_Type96_96
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jgm164_460mm45_type96_a.jpg
+map_Ks jgm164_460mm45_type96_mg.jpg
+
+newmtl JGS009_127mm40_Type_89_skinned_626
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jgs009_127mm40_type_89_a.jpg
+map_Ks jgs009_127mm40_type_89_mg.jpg
+
+newmtl JGS156_155mm_60_Type3_skinned_787
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jgs156_155mm_60_type3_a.jpg
+map_Ks jgs156_155mm_60_type3_mg.jpg
+
+newmtl JGS157_127mm40_Type89_Mod_A_skinned_548
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jgs157_127mm40_type89_mod_a_a.jpg
+map_Ks jgs157_127mm40_type89_mod_a_mg.jpg
+
+newmtl JM002_Paravane_845
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm002_paravane_a.jpg
+map_Ks jm002_paravane_mg.jpg
+
+newmtl JM003_Searchlight_Control_1_853
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm003_searchlight_control_1_a.jpg
+map_Ks jm003_searchlight_control_1_mg.jpg
+
+newmtl JM007_Life_Buoy_box_247
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm007_life_buoy_box_a.jpg
+map_Ks jm007_life_buoy_box_mg.jpg
+
+newmtl JM008_Searchlight_24
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm008_searchlight_a.jpg
+map_Ks jm008_searchlight_mg.jpg
+
+newmtl JM009_Signal_Lamp_849
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm009_signal_lamp_a.jpg
+map_Ks jm009_signal_lamp_mg.jpg
+
+newmtl JM013_Reels_1_482
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm013_reels_1_a.jpg
+map_Ks jm013_reels_1_mg.jpg
+
+newmtl JM025_Fairled_500
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm025_fairled_a.jpg
+map_Ks jm025_fairled_mg.jpg
+
+newmtl JM026_Bollards_542
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm026_bollards_a.jpg
+map_Ks jm026_bollards_mg.jpg
+
+newmtl JM029_Leadsman_Platform_461
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm029_leadsman_platform_a.jpg
+map_Ks jm029_leadsman_platform_mg.jpg
+
+newmtl JM030_Wind_detection_985
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm030_wind_detection_a.jpg
+map_Ks jm030_wind_detection_mg.jpg
+
+newmtl JM033_Roller_Fairled_548
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm033_roller_fairled_a.jpg
+map_Ks jm033_roller_fairled_mg.jpg
+
+newmtl JM039_Cutter_12m_95
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm039_cutter_12m_a.jpg
+map_Ks jm039_cutter_12m_mg.jpg
+
+newmtl JM059_Deck_Hatch_8_968
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm059_deck_hatch_8_a.jpg
+map_Ks jm059_deck_hatch_8_mg.jpg
+
+newmtl JM086_Crane_3_180
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm086_crane_3_a.jpg
+map_Ks jm086_crane_3_mg.jpg
+
+newmtl JM089_Signal_Platform_1_985
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm089_signal_platform_1_a.jpg
+map_Ks jm089_signal_platform_1_mg.jpg
+
+newmtl JM107_Binocular_918
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm107_binocular_a.jpg
+map_Ks jm107_binocular_mg.jpg
+
+newmtl JM109_Deck_Hatch_11_911
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm109_deck_hatch_11_a.jpg
+map_Ks jm109_deck_hatch_11_mg.jpg
+
+newmtl JM110_Deck_Hatch_12_817
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm110_deck_hatch_12_a.jpg
+map_Ks jm110_deck_hatch_12_mg.jpg
+
+newmtl JM111_Deck_Hatch_13_367
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm111_deck_hatch_13_a.jpg
+map_Ks jm111_deck_hatch_13_mg.jpg
+
+newmtl JM112_Gun_Deck_3_430
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm112_gun_deck_3_a.jpg
+map_Ks jm112_gun_deck_3_mg.jpg
+
+newmtl JM310_Chrysanthemum_full_949
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm310_chrysanthemum_full_a.jpg
+map_Ks jm310_chrysanthemum_full_mg.jpg
+
+newmtl JM368_Life_Buoy_814
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jm368_life_buoy_a.jpg
+map_Ks jm368_life_buoy_mg.jpg
+
+newmtl JRS007_Radar_Type_22_skinned_370
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jrs007_radar_type_22_a.jpg
+map_Ks jrs007_radar_type_22_mg.jpg
+
+newmtl JRS010_Radar_Type_13_skinned_337
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jrs010_radar_type_13_a.jpg
+map_Ks jrs010_radar_type_13_mg.jpg
+
+newmtl JSB018_Yamato_1944_deck_176
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jsb018_yamato_1944_deck_a.jpg
+map_Ks jsb018_yamato_1944_deck_mg.jpg
+
+newmtl JSB018_Yamato_1944_hull_399
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jsb018_yamato_1944_hull_a.jpg
+map_Ks jsb018_yamato_1944_hull_mg.jpg
+
+newmtl JSB018_Yamato_1944_hull_wire_400
+Ns 48.000004
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd Models/Yamato/jsb018_yamato_1944_hull_a.jpg
+map_Ks jsb018_yamato_1944_hull_mg.jpg
